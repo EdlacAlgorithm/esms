@@ -1,0 +1,2 @@
+[28-Nov-2017 18:01:05 UTC] PHP Fatal error:  Call to a member function getTimestamp() on boolean in /home/almawafs/public_html/sms/application/libraries/Dashboardinit.php on line 403
+[05-Dec-2017 13:38:53 UTC] PHP Parse error:  syntax error, unexpected 'Hello' (T_STRING) in /home/almawafs/public_html/sms/application/libraries/Stdreport.php on line 570
